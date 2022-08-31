@@ -1,0 +1,4 @@
+links = //text-fill[not(@class)]/a/@href
+title = //div[@class="mb-auto"]//span/text()
+resume = //div[@class="lead"]/p/text()
+body = //div[@class="html-content"]/p/text()

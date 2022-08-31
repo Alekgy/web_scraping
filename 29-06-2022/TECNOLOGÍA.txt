@@ -1,0 +1,14 @@
+TECNOLOGÍA
+
+La startup cuenta con su propio token, el cual esta respaldado en activos reales como el dólar, euro, oro, e incluso los inmuebles 
+
+La startup colombiana, Unergy, lanzó una plataforma de financiación colaborativa que permite invertir en programas de energía solar, la cual cuenta con su propio token: el ‘uWatt’, que equivale a 
+ reales de proyectos que hay en varios países de Latinoamerica. La producción y comercialización de estas energías limpias generará rentabilidades cada año de más de 11%.
+“El mundo necesita hoy un proyecto cripto que base su valor en activos reales que generen valor real para el
+
+mundo, como rentabilidad y sostenibilidad, pues hoy se requieren más de US$2,4 trillones en inversiones de energía limpia para evitar un desastre climático en los próximos años”, aseguró, Eduardo Andrés Ospina, cofundador y CEO de Unergy.
+Este tipo de token ofrece otros beneficios que las criptomonedas especulativas no tienen, ya que cuentan con la seguridad transaccional que brinda el blockchain y no dependen de la volatilidad del mercado, debido a que están respaldadas por divisas reales, como el dólar o el euro, e incluso por el oro y hasta por inmuebles.
+Este nuevo proyecto se basa en los "Watts", que son las variables que determinan la capacidad de generación energética de una turbina eólica, un panel solar o cualquier proyecto que produzca energía.  Dependiendo de la cantidad de "Watts" que haya en un proyecto, se determina el tamaño y la producción de 
+“De esta manera, definimos que lo mejor era tokenizarlos, así que desarrollamos un algoritmo y protocolo que le permite a nuestros usuarios hacerle seguimiento a su inversión, por medio de nuestro cripto token, pues este está totalmente ligado al activo real”, dijo, Ospina.
+Es decir, si un proyecto tiene 100.000 Watts, que valen US$100.000, se producirán 100.000 uWatts, y cada token costará US$1. Cifra que no se moverá de acuerdo a la oferta y demanda, ya que esta respaldado por un activo real.
+“Esto es importante porque permite romper los esquemas tradicionales en donde pocas empresas en el mundo son las dueñas de la energía que consumimos, en este caso millones de personas en el mundo serían los dueños de los uWatts que representan esos activos de la energía limpia que vamos a consumir en el futuro”, agregó, Ospina.
